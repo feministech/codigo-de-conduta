@@ -3,7 +3,7 @@
 
 
 ## :rocket: Nossa comunidade
-Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se identificam como mulheres cis ou trans ou pessoas não binárias que compartilham conhecimento fazendo lives sobre tecnologia na Twitch e, nessas lives, queremos manter um lugar seguro e convidativo para pessoas independentemente de:
+Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento fazendo lives sobre tecnologia na Twitch e, nessas lives, queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 
 * Gênero, identidade de gênero ou expressão de gênero;
 * Orientação sexual;  

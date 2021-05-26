@@ -40,7 +40,7 @@ Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se iden
 * Não cumprir com os itens colocados neste código de conduta.
 
 **:heavy_check_mark: Como pessoa participante desta comunidade, você concorda que:**
-* Cada uma das pessoas que fazem as lives tem seus próprios canais na Twitch, seus próprios pensamentos, suas próprias opiniões e suas próprias regras e que você deve respeitá-las;
+* Cada uma das pessoas que fazem as lives tem seus próprios canais na Twitch, seus próprios pensamentos, suas próprias opiniões e suas próprias regras e que você deve conhecê-las e respeitá-las;
 * Nós somos, coletiva e individualmente, comprometidos com a segurança e inclusão;
 * Nós adotamos a política de tolerância zero para assédios, perseguições ou discriminações;
 * Nós respeitamos limites, identidade e privacidade das pessoas;
@@ -74,7 +74,7 @@ Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se iden
 
 ## :no_entry: O desrespeito às regras desta comunidade, descritas nesse documento, acarretará consequências:
 * Publicações e mensagens que não estiverem de acordo com este Código de Conduta serão removidas;
-* Você pode receber timeout ou banimento em uma ou mais lives da comunidade de acordo com o seu comportamento;
+* Você pode receber timeout ou banimento em uma ou mais lives da comunidade de acordo com o seu comportamento ou não cumprimento das regras, independente de ser viewer, ou ter feito doações, ou envio de bits, ou inscrito de qualquer nível (tier 1, tier 2, tier 3);
 * Caso você queira solicitar a retirada do banimento, haverá uma votação na comunidade, para entender se ela se sente segura com o seu retorno. Em caso negativo, você não poderá mais fazer parte, seja como participante, seja como pessoa que faz lives e é parte do time da Twitch Feministech.
 
 

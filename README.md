@@ -46,7 +46,8 @@ Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se iden
 * Nós respeitamos limites, identidade e privacidade das pessoas;
 * Nós nos abstemos de usar linguagem que é considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes;
 * Nós não permitimos tópicos ofensivos como forma de humor;
-* Nós evitamos tópicos que fogem ao escopo do grupo, como conteúdo político.
+* Nós evitamos tópicos que fogem ao escopo do grupo, como conteúdo político;
+* Nenhum conteúdo de cunho comercial ou de captação de dados para disponibilização de gratuidades poderá ser postado ou requisitado, pois garantimos a privacidade dos membros da comunidade.
 
 
 ### :heavy_check_mark: Boas práticas:

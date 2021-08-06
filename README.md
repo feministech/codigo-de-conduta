@@ -1,6 +1,13 @@
 ## :clipboard: O que é Código de Conduta?
 É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou organizadoras. Estamos abertas a sugestões e críticas construtivas sobre as regras quando forem relevantes. Ressaltamos que esse código será considerado pela comunidade em todos os seus grupos, em todas as redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade.
 
+### :computer: Nossas redes oficiais:
+* Twitter: [feminis_tech](https://twitter.com/feminis_tech);
+* Dev.to: [feministech](https://dev.to/feministech);
+* LinkedIn: [feministech](https://www.linkedin.com/company/feministech);
+* Podcast: [feministech podcast](https://anchor.fm/feministech);
+* Instagram: [feminis_cat](https://www.instagram.com/feminis_cat/);
+* Twitch: [feministech](https://www.twitch.tv/team/livecodergirls).
 
 ## :rocket: Nossa comunidade
 Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento fazendo lives sobre tecnologia na Twitch e, nessas lives, queremos manter um lugar seguro e convidativo para pessoas independentemente de:

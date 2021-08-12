@@ -73,7 +73,10 @@ Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se iden
 * Faça críticas construtivas, se necessário. Mas nunca use palavras para ofender ou destruir alguém. A ideia é crescermos juntos e não o contrário;
 * Seja uma pessoa curiosa e busque por respostas também em outros meios de pesquisa. Há muitas formas de aprender, assim como também há muitas formas de compartilhar conhecimento;
 * Evite discussões do tipo "tecnologia X é melhor que tecnologia Y". Cada tecnologia tem seu propósito e sua utilidade. Tenha bom senso em suas colocações e respeite as opiniões das outras pessoas;
-* Evite publicar em qualquer uma das redes sociais da comunidade, conteúdo que infrinja alguma licença ou direitos autorais.
+* Evite publicar em qualquer uma das redes sociais da comunidade, conteúdo que infrinja alguma licença ou direitos autorais;
+* Não dar respostas prontas ou ficar opinando sobre a forma como a pessoa streamer (ou quaisquer pessoas do chat) escolheu estudar por se sentir mais confortável daquela forma;
+* Apenas palpitar em soluções técnicas quando for solicitado pela pessoa streamer;
+* Não praticar o mansplaining.
 
 ### :heavy_check_mark: Nós trabalhamos ativamente para:
 * Ser uma comunidade segura e agradável para todas as pessoas;

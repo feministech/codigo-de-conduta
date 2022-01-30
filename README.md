@@ -1,5 +1,5 @@
 ## :rocket: Quem somos:
-Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se identificam no feminino e não binárias que compartilham conhecimento sobre tecnologia fazendo lives, escrevendo artigos, produzindo vídeos ou postagens, entre outros.
+Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se identificam no feminino e não-bináries que compartilham conhecimento sobre tecnologia fazendo lives, escrevendo artigos, produzindo vídeos ou postagens, entre outros.
 
 ### :computer: Nossas redes oficiais:
 * Twitter: [feminis_tech](https://twitter.com/feminis_tech);
@@ -11,7 +11,7 @@ Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se iden
 * Site: [feministech](https://feministech.github.io/).
 
 ## :mag_right: Missão:
-Aumentar a visibilidade de pessoas que se identificam no feminino ou não-binárias que fazem live coding e para a tecnologia em geral, dando suporte a quem está começando e ajudando quem está há mais tempo a crescer e atingir seus objetivos.
+Aumentar a visibilidade de pessoas que se identificam no feminino ou não-bináries que fazem live coding e para a tecnologia em geral, dando suporte a quem está começando e ajudando quem está há mais tempo a crescer e atingir seus objetivos.
 
 ## :star: Valores:
 * Ética;
@@ -39,8 +39,8 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 **:warning: Para entrar na comunidade Feministech, você deve:**
 * Concordar com este código de conduta;
 * Assistir lives da comunidade e acompanhar outros conteúdos produzidos;
-* Ser uma pessoa que se identifica no feminino ou pessoa não-binária;
-* Ser feminista interseccional, ou seja, considerando feminismo para mulheres negras, brancas, amarelas, indígenas, binárias, não-binárias, trans, cis, com deficiência etc.
+* Ser uma pessoa que se identifica no feminino ou pessoa não-binárie;
+* Ser feminista interseccional, ou seja, considerando feminismo para mulheres negras, brancas, amarelas, indígenas, bináries, não-bináries, trans, cis, com deficiência etc.
 
 **:warning: Como pessoa integrante do time da Twitch Feministech, você deve:**
 * Concordar com todos os itens do tópico acima;
@@ -50,11 +50,19 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Manter uma comunicação aberta com a comunidade e com o time;
 * Falar sobre tecnologia em suas lives no geral, mesmo que tenham outros assuntos, como jogos, entretenimento, artesanato etc.
 
+**:warning: Como pessoa voluntária da comunidade, você deve:**
+* Concordar com este código de conduta;
+* Informar para a comunidade seu interesse em ajudar e de que forma gostaria de fazer isso;
+* Informar para a comunidade sobre sua disponibilidade para ajudar de acordo com tempo que tiver disponível;
+* Suas funções não são obrigatórias, mas gostaríamos de entender sua real disponibilidade. Ainda que seja alguma ação voluntária, o ideal é que você tenha comprometimento e responsabilidade com o que você assumir para fazer e, caso tenha qualquer problema, fique sempre à vontade para comunicar que não poderá mais ajudar.
+
+Por sermos uma comunidade de tecnologia, não temos fins lucrativos. Toda e qualquer pessoa que se interessar em se voluntariar para ajudar a comunidade de alguma forma, não terá quaisquer vínculos empregatícios.
+
 **:warning: O que faz você sair da comunidade no geral:**
 * Não cumprir com os itens colocados neste código de conduta.
 
 **:warning: O que faz você sair do time da Twitch da comunidade Feministech:**
-* Ter períodos maiores que dois meses de inatividade;
+* Ter períodos maiores que dois meses de inatividade, exceto em casos de problemas pessoais que causem a inatividade;
 * Caso você pare completamente de fazer lives de tecnologia, você não fará mais parte do time, pois o foco é ter conteúdo de tecnologia;
 * Não cumprir com os itens colocados neste código de conduta.
 

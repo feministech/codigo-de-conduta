@@ -38,7 +38,7 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Tempo de experiência na área de tecnologia;
 * Nível de conhecimento ou de dificuldade em qualquer assunto da área de tecnologia.
 
-### :open_book:	** Papéis dentro da comunidade:**
+### :open_book: Papéis dentro da comunidade:
 * Pessoa participante: pessoas que participam da comunidade, acompanhando o conteúdo;
 * Pessoa streamer: pessoas que fazem lives na Twitch e/ou outras plataformas;
 * Pessoa moderadora: pessoas que ajudam na moderação da comunidade, sejam nos eventos, lives, discord e outros;

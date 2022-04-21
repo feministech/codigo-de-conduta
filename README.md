@@ -75,7 +75,6 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Não cumprir com os itens colocados neste código de conduta.
 
 ### **:warning: O que faz você sair do time da Twitch da comunidade Feministech:**
-* Ter períodos maiores que três meses de inatividade, exceto em casos de problemas pessoais que causem a inatividade;
 * Caso você pare completamente de fazer lives de tecnologia, você não fará mais parte do time, pois o foco é ter conteúdo de tecnologia. Lembre-se que você pode ter outros tipos de conteúdo em seu canal, contudo, é importante ter uma porcentagem destinada aos assuntos de tecnologia;
 * Não cumprir com os itens colocados neste código de conduta.
 

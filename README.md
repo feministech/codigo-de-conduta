@@ -12,7 +12,7 @@ Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se iden
 * Discord: para participar do discord, você deve enviar uma DM para o nosso twitter ou para uma das pessoas coordenadoras da comunidade.
 
 ## :mag_right: Missão:
-Aumentar a visibilidade de pessoas que se identificam no feminino ou não-bináries que fazem live coding e para a tecnologia em geral, dando suporte a quem está começando e ajudando quem está há mais tempo a crescer e atingir seus objetivos.
+Aumentar a visibilidade de pessoas que se identificam no feminino ou não-bináries que produzem ou consomem conteúdo de tecnologia e para a tecnologia em geral, dando suporte a quem está começando e ajudando quem está há mais tempo a crescer e atingir seus objetivos.
 
 ## :star: Valores:
 * Ética;
@@ -21,7 +21,7 @@ Aumentar a visibilidade de pessoas que se identificam no feminino ou não-binár
 * Acessibilidade.
 
 ## :clipboard: O que é Código de Conduta?
-É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou organizadoras. Estamos abertas a sugestões e críticas construtivas sobre as regras quando forem relevantes. Ressaltamos que esse código será considerado pela comunidade em todos os seus grupos, em todas as redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade.
+É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou pessoas organizadoras. Estamos abertas a sugestões e críticas construtivas sobre as regras quando forem relevantes. Ressaltamos que esse código será considerado pela comunidade em todos os seus grupos, em todas as redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade.
 
 ## :rocket: Nossa comunidade
 Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
@@ -41,32 +41,33 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 ### :open_book: Papéis dentro da comunidade:
 * Pessoa participante: pessoas que participam da comunidade, acompanhando o conteúdo;
 * Pessoa streamer: pessoas que fazem lives na Twitch e/ou outras plataformas;
-* Pessoa moderadora: pessoas que ajudam na moderação da comunidade, sejam nos eventos, lives, discord e outros;
+* Pessoa coordenadora: pessoas que ajudam na coordenação da comunidade, sejam nos eventos, lives, discord e outros;
 * Pessoa criadora de conteúdo: pessoas que produzem outros tipos de conteúdo como artigos, vídeos, postagens etc.;
 * Pessoa voluntária: pessoas que ajudam a comunidade no discord ou de outras maneiras.
+* Pessoa onboardeira: pessoas que apresentam a comunidade e sua história para as pessoas que estão ingressando nela.
 
 ### **:warning: Para ser parte da comunidade Feministech, você deve:**
 * Concordar com este código de conduta;
-* Assistir ou fazer lives de tecnologia;
-* Produzir ou acompanhar conteúdos de tecnologia;
-* Ser uma pessoa que se identifica no feminino ou pessoa não-binárie;
+* Assistir ou fazer lives de tecnologia, ou produzir ou acompanhar conteúdos de tecnologia;
+* Ser uma pessoa que se identifica no feminino ou como pessoa não-binária;
 * Ser feminista interseccional, ou seja, considerando feminismo para todas as mulheres, sejam mulheres negras, brancas, amarelas, indígenas, bináries, não-bináries, trans, cis, com deficiência etc.
 
 *OBS: Para ser pessoa membra da comunidade, **não existem quaisquer obrigatoriedades de produção de conteúdo**. Você pode participar de outras formas que te deixem confortável.*
 
 ### **:warning: Como pessoa integrante do [time da Twitch Feministech](https://www.twitch.tv/team/livecodergirls), você deve:**
-* Concordar com todos os itens do tópico acima;
+* Concordar com este código de conduta;
 * Fazer lives na Twitch;
 * Ser afiliada na Twitch;
 * Manter uma comunicação aberta com a comunidade e com o time;
-* Falar sobre tecnologia em suas lives no geral, mesmo que tenham outros assuntos, como jogos, entretenimento, artesanato etc.
+* Falar sobre tecnologia em suas lives no geral, mesmo que tenham outros assuntos, como jogos, entretenimento, artesanato etc;
+* Manter um ambiente seguro respeitando os itens desse código de conduta em suas lives, incluindo o stream e o chat.
 
 *OBS: Imprevistos acontecem. A produção de conteúdo não é obrigatória, então fique à vontade para nos comunicar sobre quaisquer eventualidades.*
 
 ### **:warning: Como pessoa voluntária da comunidade, você deve:**
 * Concordar com este código de conduta;
 * Informar para a comunidade seu interesse em ajudar e de que forma gostaria de fazer isso;
-* Informar para a comunidade sobre sua disponibilidade para ajudar de acordo com tempo que tiver disponível;
+* Informar para a comunidade sobre sua disponibilidade para ajudar de acordo com o tempo que tiver disponível;
 * Suas funções não são obrigatórias, mas gostaríamos de entender sua real disponibilidade. Ainda que seja alguma ação voluntária, o ideal é que você tenha comprometimento e responsabilidade com o que você assumir para fazer e, caso tenha qualquer problema, fique sempre à vontade para comunicar que não poderá mais ajudar.
 
 *Por sermos uma comunidade de tecnologia, **não temos fins lucrativos**. Toda e qualquer pessoa que se interessar em se voluntariar para ajudar a comunidade de alguma forma, não terá quaisquer vínculos empregatícios.*
@@ -114,10 +115,10 @@ Essas atitudes NÃO SÃO CORRETAS. Se você não concorda com estas regras, por 
 ## **:no_entry: O desrespeito às regras desta comunidade, descritas nesse documento, acarretará consequências:**
 * Publicações e mensagens que não estiverem de acordo com este Código de Conduta serão removidas;
 * Você pode receber timeout ou banimento em uma ou mais lives da comunidade, ou até mesmo no discord, de acordo com o seu comportamento ou não cumprimento das regras, independente de ser viewer, ou ter feito doações, ou envio de bits, ou ter feito inscrição de qualquer nível (tier 1, tier 2, tier 3), ou qualquer outra forma de incentivo;
-* Se você sofrer algum tipo de abuso, assédio, discriminação, não sentir segurança ou ficar desconfortável com algo ou alguém, fale com a moderação. Se a pessoa que você quer reportar estiver na moderação, fale com outra pessoa moderadora;
+* Se você sofrer algum tipo de abuso, assédio, discriminação, não sentir segurança ou ficar desconfortável com algo ou alguém, fale com a coordenação. Se a pessoa que você quer reportar estiver na coordenação, fale com outra pessoa coordenadora;
 * Caso você queira solicitar a retirada do banimento, haverá uma votação na comunidade, para entender se ela se sente segura com o seu retorno. Em caso negativo, você não poderá mais fazer parte, seja como participante, seja como pessoa produtora de quaisquer tipos de conteúdos, seja como pessoa que faz lives e é parte do time da Twitch Feministech.
 
-**Qualquer ponto não abordado ou dúbio no atual código de conduta, deve ser levado e tratado junto a moderação.**
+**Qualquer ponto não abordado ou dúbio no atual código de conduta, deve ser levado e tratado junto a coordenação.**
 
 ### Referências de outras comunidades para a construção deste código de conduta:
 * https://github.com/training-center/sobre/blob/master/CONDUCT.md

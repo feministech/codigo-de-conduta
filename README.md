@@ -49,7 +49,7 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Pessoa social media: pessoas que estão envolvidas diretamente com as redes sociais da comunidade;
 * Pessoa palestrante: pessoas que realizam palestras dentro e fora da comunidade Feministech.
 
-*OBS: Conheça melhor os papéis dentro da comunidade e como alcançá-los por este documento para entender melhor as responsabilidades agregadas ao papel escolhido.*
+*OBS: Conheça melhor os papéis dentro da comunidade e como alcançá-los por este [documento](https://github.com/feministech/codigo-de-conduta/blob/adicionar-como-ser-coordenadore/PAP%C3%89IS%20NA%20FEMINISTECH.md) para entender melhor as responsabilidades agregadas ao papel escolhido.*
 
 ### **:warning: Para ser parte da comunidade Feministech, você deve:**
 * Concordar com este código de conduta;

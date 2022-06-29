@@ -43,8 +43,13 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Pessoa streamer: pessoas que fazem lives na Twitch e/ou outras plataformas;
 * Pessoa coordenadora: pessoas que ajudam na coordenação da comunidade, sejam nos eventos, lives, discord e outros;
 * Pessoa criadora de conteúdo: pessoas que produzem outros tipos de conteúdo como artigos, vídeos, postagens etc.;
-* Pessoa voluntária: pessoas que ajudam a comunidade no discord ou de outras maneiras.
-* Pessoa onboardeira: pessoas que apresentam a comunidade e sua história para as pessoas que estão ingressando nela.
+* Pessoa voluntária: pessoas que ajudam a comunidade no discord ou de outras maneiras;
+* Pessoa onboardeira: pessoas que apresentam a comunidade e sua história para as pessoas que estão ingressando nela;
+* Pessoa podcaster: pessoas que estão envolvidas diretamente com o projeto podcast da comunidade;
+* Pessoa social media: pessoas que estão envolvidas diretamente com as redes sociais da comunidade;
+* Pessoa palestrante: pessoas que realizam palestras dentro e fora da comunidade Feministech.
+
+*OBS: Conheça melhor os papéis dentro da comunidade e como alcançá-los por este documento para entender melhor as responsabilidades agregadas ao papel escolhido.*
 
 ### **:warning: Para ser parte da comunidade Feministech, você deve:**
 * Concordar com este código de conduta;
@@ -53,24 +58,6 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Ser feminista interseccional, ou seja, considerando feminismo para todas as mulheres, sejam mulheres negras, brancas, amarelas, indígenas, bináries, não-bináries, trans, cis, com deficiência etc.
 
 *OBS: Para ser pessoa membra da comunidade, **não existem quaisquer obrigatoriedades de produção de conteúdo**. Você pode participar de outras formas que te deixem confortável.*
-
-### **:warning: Como pessoa integrante do [time da Twitch Feministech](https://www.twitch.tv/team/livecodergirls), você deve:**
-* Concordar com este código de conduta;
-* Fazer lives na Twitch;
-* Ser afiliada na Twitch;
-* Manter uma comunicação aberta com a comunidade e com o time;
-* Falar sobre tecnologia em suas lives no geral, mesmo que tenham outros assuntos, como jogos, entretenimento, artesanato etc;
-* Manter um ambiente seguro respeitando os itens desse código de conduta em suas lives, incluindo o stream e o chat.
-
-*OBS: Imprevistos acontecem. A produção de conteúdo não é obrigatória, então fique à vontade para nos comunicar sobre quaisquer eventualidades.*
-
-### **:warning: Como pessoa voluntária da comunidade, você deve:**
-* Concordar com este código de conduta;
-* Informar para a comunidade seu interesse em ajudar e de que forma gostaria de fazer isso;
-* Informar para a comunidade sobre sua disponibilidade para ajudar de acordo com o tempo que tiver disponível;
-* Suas funções não são obrigatórias, mas gostaríamos de entender sua real disponibilidade. Ainda que seja alguma ação voluntária, o ideal é que você tenha comprometimento e responsabilidade com o que você assumir para fazer e, caso tenha qualquer problema, fique sempre à vontade para comunicar que não poderá mais ajudar.
-
-*Por sermos uma comunidade de tecnologia, **não temos fins lucrativos**. Toda e qualquer pessoa que se interessar em se voluntariar para ajudar a comunidade de alguma forma, não terá quaisquer vínculos empregatícios.*
 
 ### **:warning: O que faz você sair da comunidade no geral:**
 * Não cumprir com os itens colocados neste código de conduta.

@@ -39,7 +39,7 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 * Nível de conhecimento ou de dificuldade em qualquer assunto da área de tecnologia.
 
 ### :open_book: Papéis dentro da comunidade:
-Conheça melhor os papéis dentro da comunidade e como alcançá-los por este [documento](https://github.com/feministech/codigo-de-conduta/blob/adicionar-como-ser-coordenadore/PAP%C3%89IS%20NA%20FEMINISTECH.md) para entender melhor as responsabilidades agregadas ao papel escolhido.*
+Conheça melhor os papéis dentro da comunidade e como alcançá-los por este [documento](https://github.com/feministech/codigo-de-conduta/blob/adicionar-como-ser-coordenadore/PAP%C3%89IS%20NA%20FEMINISTECH.md) para entender melhor as responsabilidades agregadas ao papel escolhido.
 
 ### **:warning: Para ser parte da comunidade Feministech, você deve:**
 * Concordar com este código de conduta;

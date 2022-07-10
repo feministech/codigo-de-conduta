@@ -41,12 +41,12 @@ Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
 ### :open_book: Papéis dentro da comunidade:
 * Pessoa participante: pessoas que participam da comunidade, acompanhando o conteúdo;
 * Pessoa streamer: pessoas que fazem lives na Twitch e/ou outras plataformas;
-* Pessoa coordenadora: pessoas que ajudam na coordenação da comunidade, sejam nos eventos, lives, discord e outros;
-* Pessoa criadora de conteúdo: pessoas que produzem outros tipos de conteúdo como artigos, vídeos, postagens etc.;
-* Pessoa voluntária: pessoas que ajudam a comunidade no discord ou de outras maneiras;
-* Pessoa onboardeira: pessoas que apresentam a comunidade e sua história para as pessoas que estão ingressando nela;
+* Pessoa coordenadora: pessoas que ajudam na coordenação e organização da comunidade, sejam nos eventos, projetos internos e externos, lives, discord e outros;
+* Pessoa criadora de conteúdo: pessoas que produzem outros tipos de conteúdo como artigos, vídeos, postagens em redes sociais etc.;
+* Pessoa voluntária: pessoas que ajudam a comunidade de diversas maneiras de acordo com sua disponibilidade;
+* Pessoa onboardeira: pessoas que fazem parte do projeto "Boas vindas" e apresentam a comunidade e sua história para as pessoas que estão ingressando nela;
 * Pessoa podcaster: pessoas que estão envolvidas diretamente com o projeto podcast da comunidade;
-* Pessoa social media: pessoas que estão envolvidas diretamente com as redes sociais da comunidade;
+* Pessoa feminismedia: pessoas que estão envolvidas diretamente com as redes sociais da comunidade;
 * Pessoa palestrante: pessoas que realizam palestras dentro e fora da comunidade Feministech.
 
 *OBS: Conheça melhor os papéis dentro da comunidade e como alcançá-los por este [documento](https://github.com/feministech/codigo-de-conduta/blob/adicionar-como-ser-coordenadore/PAP%C3%89IS%20NA%20FEMINISTECH.md) para entender melhor as responsabilidades agregadas ao papel escolhido.*

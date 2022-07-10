@@ -23,11 +23,14 @@
 ## :briefcase: Como adquirir o cargo de coordenação?
 * A sua participação ativa na comunidade mesmo como pessoa membra é importante;
 * Conheça os projetos da comunidade;
+* Ter engajamento nos eventos da comunidade;
 * Você pode demonstrar interesse e informar às pessoas coordenadoras atuais;
 * Ter pelo menos um mês de participação ativa na comunidade, mesmo que seja apenas pelo discord;
 * Sentir-se à vontade se comunicando (independente da maneira) com outras pessoas da comunidade, mesmo que seja apenas dentro do discord;
 * Ter consciência de que precisará dedicar pelo menos parte de seu tempo para ajudar a cuidar e manter a comunidade ativa e em funcionamento;
 * Reconhecer que a Feministech não tem hierarquia de cargos ou pessoas donas. Todes são bem vindes para participar de quaisquer projetos e/ou organizações de eventos, independente de nome de cargo.
+
+_OBS: Você pode entrar na coordenação por demonstrar interesse ou por convite, caso a comunidade perceba sua atuação e engajamento no dia-a-dia da Feministech._
 
 ### :warning: O que faz você sair da coordenação:
 * Agir como se fosse a pessoa dona e que manda na comunidade;

@@ -45,7 +45,7 @@ _OBS: Você pode entrar na coordenação por demonstrar interesse ou por convite
 * Ter consciência de que precisará dedicar pelo menos parte de seu tempo para ajudar a cuidar e manter o podcast ativo e em funcionamento;
 * Reconhecer que a Feministech não tem hierarquia de cargos ou pessoas donas. Todes são bem vindes para participar de quaisquer projetos e/ou organizações de eventos, independente de nome de cargo.
 
-### :warning: O que faz você sair da coordenação:
+### :warning: O que faz você perder o cargo de podcaster:
 * Agir como se fosse a pessoa dona do podcast e que manda na comunidade;
 * Não cumprir com os itens colocados neste código de conduta.
 
@@ -57,8 +57,8 @@ _OBS: Você pode entrar na coordenação por demonstrar interesse ou por convite
 * Ter consciência de que precisará dedicar pelo menos parte de seu tempo para ajudar a cuidar e manter as redes sociais ativas e em funcionamento;
 * Reconhecer que a Feministech não tem hierarquia de cargos ou pessoas donas. Todes são bem vindes para participar de quaisquer projetos e/ou organizações de eventos, independente de nome de cargo.
 
-### :warning: O que faz você sair da coordenação:
-* Agir como se fosse a pessoa dona do podcast e que manda na comunidade;
+### :warning: O que faz você perder o cargo de feminismedia:
+* Agir como se fosse a pessoa dona e que manda na comunidade;
 * Não cumprir com os itens colocados neste código de conduta.
 
 ## :grey_question: E quanto aos demais cargos?

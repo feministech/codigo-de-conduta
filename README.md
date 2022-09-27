@@ -21,7 +21,7 @@ Aumentar a visibilidade de pessoas que se identificam no feminino ou não-binár
 * Acessibilidade.
 
 ## :clipboard: O que é Código de Conduta?
-É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou pessoas organizadoras. Estamos abertas a sugestões e críticas construtivas sobre as regras quando forem relevantes. Ressaltamos que esse código será considerado pela comunidade em todos os seus grupos, em todas as redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade.
+É um conjunto de regras para orientar a conduta e as atividades de um grupo de pessoas de acordo com os seus princípios e objetivos. As regras devem ser cumpridas e levadas a sério pela comunidade, sejam participantes, espectadores ou pessoas organizadoras. Este documento está em constante atualização para atender às necessidades da comunidade. É de responsabilidade de todes es membres acompanhar as mudanças nesse código de conduta. Estamos abertas a sugestões e críticas construtivas sobre as regras quando forem relevantes. Ressaltamos que esse código será considerado pela comunidade em todos os seus grupos, em todas as redes sociais, assim como todo e qualquer evento ou projeto organizado pela comunidade.
 
 ## :rocket: Nossa comunidade
 Queremos manter um lugar seguro e convidativo para pessoas independentemente de:
@@ -54,7 +54,7 @@ Conheça melhor os papéis dentro da comunidade e como alcançá-los por este [d
 
 ## **:heavy_check_mark: Como pessoa participante desta comunidade, você concorda que:**
 * Cada uma das pessoas que fazem as lives tem seus próprios canais na Twitch, seus próprios pensamentos, suas próprias opiniões e suas próprias regras e que você deve conhecê-las e respeitá-las;
-* Nós somos, coletiva e individualmente, pessoas comprometidas com a segurança e inclusão;
+* Nós somos, coletiva e individualmente, pessoas comprometidas com a segurança física e psicológica e a inclusão;
 * Nós adotamos a política de tolerância zero para assédios, perseguições ou discriminações;
 * Nós respeitamos limites, identidade e privacidade das pessoas;
 * Nós nos abstemos de usar linguagem que é considerada opressiva, como comentários sexistas, racistas, homofóbicos, transfóbicos, classistas ou que discrimine pessoas com qualquer tipo de deficiência, mas este Código de Conduta não está limitado a apenas estes;
@@ -81,15 +81,16 @@ Conheça melhor os papéis dentro da comunidade e como alcançá-los por este [d
 ## **:x: Nós condenamos:**
 * Perseguição, doxxing (investigar a vida de uma pessoa sem autorização) ou publicações indevidas de informações privadas;
 * Ameaças e assédio de qualquer tipo;
-* Qualquer comportamento que comprometa a segurança e participação das pessoas.
+* Qualquer comportamento que comprometa a segurança física e psicológica e a participação das pessoas.
 
 Essas atitudes NÃO SÃO CORRETAS. Se você não concorda com estas regras, por favor, cancele sua participação nesta comunidade.
 
 ## **:no_entry: O desrespeito às regras desta comunidade, descritas nesse documento, acarretará consequências:**
 * Publicações e mensagens que não estiverem de acordo com este Código de Conduta serão removidas;
 * Você pode receber timeout ou banimento em uma ou mais lives da comunidade, ou até mesmo no discord, de acordo com o seu comportamento ou não cumprimento das regras, independente de ser viewer, ou ter feito doações, ou envio de bits, ou ter feito inscrição de qualquer nível (tier 1, tier 2, tier 3), ou qualquer outra forma de incentivo;
+* Caso você queira solicitar a retirada do banimento, envie um email para a conta da comunidade (oifeministech@gmail.com). Após o recebimento, haverá uma votação na comunidade, para entender se ela se sente segura com o seu retorno. Em caso negativo, você não poderá mais fazer parte, seja como participante, seja como pessoa produtora de quaisquer tipos de conteúdos, seja como pessoa que faz lives e é parte do time da Twitch Feministech. Essa decisão será comunicada por email.
+
 * Se você sofrer algum tipo de abuso, assédio, discriminação, não sentir segurança ou ficar desconfortável com algo ou alguém, fale com a coordenação. Se a pessoa que você quer reportar estiver na coordenação, fale com outra pessoa coordenadora;
-* Caso você queira solicitar a retirada do banimento, haverá uma votação na comunidade, para entender se ela se sente segura com o seu retorno. Em caso negativo, você não poderá mais fazer parte, seja como participante, seja como pessoa produtora de quaisquer tipos de conteúdos, seja como pessoa que faz lives e é parte do time da Twitch Feministech.
 
 **Qualquer ponto não abordado ou dúbio no atual código de conduta, deve ser levado e tratado junto a coordenação.**
 

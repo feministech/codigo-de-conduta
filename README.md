@@ -6,7 +6,7 @@ Nossa comunidade chamada Feministech se trata de um grupo feminista de pessoas q
 * Dev.to: [feministech](https://dev.to/feministech);
 * LinkedIn: [feministech](https://www.linkedin.com/company/feministech);
 * Podcast: [feministech podcast](https://anchor.fm/feministech);
-* Instagram: [feminis_cat](https://www.instagram.com/feminis_cat/);
+* Instagram: [feminis_tech](https://www.instagram.com/feminis_tech/);
 * Twitch: [feministech](https://www.twitch.tv/team/livecodergirls);
 * Site: [feministech](https://feministech.github.io/);
 * Discord: para participar do discord, você deve enviar uma DM para o nosso twitter ou para uma das pessoas coordenadoras da comunidade.

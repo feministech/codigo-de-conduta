@@ -1,5 +1,5 @@
 ## :rocket: Quem somos:
-Nossa comunidade chamada Feministech se trata de um grupo de pessoas que se identificam no feminino e não-bináries que compartilham conhecimento sobre tecnologia fazendo lives, escrevendo artigos, produzindo vídeos ou postagens, entre outros.
+Nossa comunidade chamada Feministech se trata de um grupo feminista de pessoas que se identificam no feminino e não-bináries que compartilham conhecimento sobre tecnologia fazendo lives, escrevendo artigos, produzindo vídeos ou postagens, entre outros.
 
 ### :computer: Nossas redes oficiais:
 * Twitter: [feminis_tech](https://twitter.com/feminis_tech);

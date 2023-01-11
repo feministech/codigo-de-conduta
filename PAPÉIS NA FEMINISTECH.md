@@ -33,9 +33,8 @@
 * Participar da coordenação da Feministech não faz nenhuma pessoa "mais importante" com relação às demais pessoas participantes;
 * Qualquer pessoa da coordenação pode sair do cargo uma vez que seja de seu interesse;
 * Ter consciência de que precisará dedicar pelo menos parte de seu tempo para ajudar a cuidar e manter a comunidade ativa e em funcionamento é essencial das pessoas coordenadoras;
-* A coordenação da Feministech está dividada em ramos, que podem ser vistos abaixo:
+* A coordenação da Feministech está dividada em ramos, que podem ser vistos como mapa mental [clicando aqui](https://whimsical.com/organizacao-coordenacao-feministech-F9y33mpb6sTGaAG1gDr1dN@2Ux7TurymN48Qj2gQUHg) ou de forma textual [clicando aqui](./papeis_coordenacao.md)
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/F9y33mpb6sTGaAG1gDr1dN@2Ux7TurymN48Qj2gQUHg"></iframe>
 
 ### ❓ Como adquirir o cargo de coordenação?
 * Ter pelo menos um mês de participação na comunidade;

@@ -13,7 +13,7 @@ A Feministech é uma comunidade feminista de pessoas trans, não-binárias e mul
 * Discord: para participar do discord, você deve enviar uma DM para o nosso twitter ou para uma das pessoas coordenadoras da comunidade.
 
 ## :mag_right: Missão:
-Aumentar a visibilidade de pessoas que se identificam no feminino ou não-bináries que produzem ou consomem conteúdo de tecnologia e para a tecnologia em geral, dando suporte a quem está começando e ajudando quem está há mais tempo a crescer e atingir seus objetivos.
+Aumentar a visibilidade de pessoas trans, não-binárias e mulheres cis que produzem ou consomem conteúdo de tecnologia e para a tecnologia em geral, dando suporte a quem está começando e ajudando quem está há mais tempo a crescer e atingir seus objetivos.
 
 ## :star: Valores:
 * Ética;

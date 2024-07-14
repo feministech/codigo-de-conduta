@@ -1,5 +1,5 @@
 ## :rocket: Quem somos:
-A Feministech é uma comunidade feminista de mulheres cis e trans e pessoas não-binárias que produzem, consomem e compartilham conteúdo sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.
+A Feministech é uma comunidade feminista de mulheres cis e trans e pessoas não-binárias que compartilham conhecimento sobre tecnologia, enquanto constroem uma comunidade diversa e inclusiva.
 
 ### :computer: Nossas redes oficiais:
 * Twitter: [feminis_tech](https://twitter.com/feminis_tech);
